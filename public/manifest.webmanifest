@@ -1,0 +1,13 @@
+{
+  "name": "369 — a journal for your becoming",
+  "short_name": "369 Journal",
+  "description": "A quiet, private 33-day journaling journey.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080c16",
+  "theme_color": "#080c16",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
